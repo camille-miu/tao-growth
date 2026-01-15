@@ -1,0 +1,15 @@
+{
+  "short_name": "修辦",
+  "name": "修辦小助理",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#8D6E63"
+}
